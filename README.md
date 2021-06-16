@@ -1,6 +1,8 @@
 # OpenCatBrowser
-此项目即 CatBrowser 的全部核心能力、底层架构。
+此项目即 [CatBrowser](https://github.com/cat-china/CatBrowser) 的**全部核心能力、底层架构**。
 
-它已由 Cat-China 捐赠给原子开放基金会（[AtomOpen/OpenCatBrowser](https://github.com/AtomOpen/OpenCatBrowser/)），您可以在[此处](https://github.com/AtomOpen/OpenCatBrowser/releases/tag/1.0)获取它的 1.0 版本。
+它已由 [Cat-China](https://github.com/cat-china) **捐赠**给原子开放基金会（[AtomOpen/OpenCatBrowser](https://github.com/AtomOpen/OpenCatBrowser/)），但由于 Cat-China 的强烈要求，我们将在他们的猫猫浏览器发布PPT 19个月后再开源此项目。
 
-如果您想代表 Cat-China 为此项目作贡献，请加入 Cat-China。
+如果您有适配需求，可以申请加入 AtomOpen 来查看完整的源代码。
+
+如果您想以 [Cat-China](https://github.com/cat-china) 的名义为此项目作贡献，请加入 [Cat-China](https://github.com/cat-china)。
